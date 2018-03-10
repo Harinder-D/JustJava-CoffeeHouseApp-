@@ -18,7 +18,7 @@
         android:textAlignment="center"
         android:textAllCaps="true"
         android:textAppearance="@android:style/TextAppearance.DeviceDefault.Large.Inverse"
-        android:textSize="33dp"
+        android:textSize="33sp"
         android:textStyle="bold" />
 
     <TextView
